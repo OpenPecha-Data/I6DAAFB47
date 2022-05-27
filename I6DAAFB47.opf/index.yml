@@ -1,0 +1,104 @@
+id: b39be431bdf84baea50d4dd27ba101d0
+annotation_type: index
+revision: '00001'
+annotations:
+  4434dbbc88784a60b2ee16eaed04ed02:
+    base: f005E.txt
+    span:
+      start: 0
+      end: 288
+  b15a60cccf81470dac207e83729456b6:
+    base: f1493.txt
+    span:
+      start: 0
+      end: 1545
+  8ccf8c3499fe45ed8b6348f70fbec4fd:
+    base: f2159.txt
+    span:
+      start: 0
+      end: 1567
+  95567b8cc66144f9b9ac58d8bb17f300:
+    base: f3548.txt
+    span:
+      start: 0
+      end: 2156
+  9acf70aa5d9d490d88e52276e54c8a64:
+    base: f3572.txt
+    span:
+      start: 0
+      end: 1867
+  1c8679f2a28e44a9ac8eb343b0029468:
+    base: f3667.txt
+    span:
+      start: 0
+      end: 1085
+  635bf721b10f425d9bd9a9952b5f0f0d:
+    base: f4331.txt
+    span:
+      start: 0
+      end: 1333
+  b6e888d2143a48a49de5ca22afb85420:
+    base: f4451.txt
+    span:
+      start: 0
+      end: 931
+  3a768c9f5397426e9eb14e24048e9162:
+    base: f6332.txt
+    span:
+      start: 0
+      end: 2293
+  a096b609ccbf4e65a3566865f50584f8:
+    base: f7818.txt
+    span:
+      start: 0
+      end: 294
+  3029d60b3b7f4ff899ae15097bf3920e:
+    base: f845E.txt
+    span:
+      start: 0
+      end: 690
+  30b5c4475dcd469d884280d95e8f7bde:
+    base: f84D7.txt
+    span:
+      start: 0
+      end: 1216
+  9b7aed3bf45b42f3af8daecb216505e7:
+    base: f85BF.txt
+    span:
+      start: 0
+      end: 1014
+  4a04904e0c7c4e5ab4134efdc786e843:
+    base: f8777.txt
+    span:
+      start: 0
+      end: 1132
+  c91f2a58b105479c9fe2914dd9c5ccbc:
+    base: fB36C.txt
+    span:
+      start: 0
+      end: 1014
+  fa0dea2d1aa744df93d594829760be2d:
+    base: fB3C4.txt
+    span:
+      start: 0
+      end: 1513
+  174ddfdb03b4408abbd8690b35ebfa89:
+    base: fB4B0.txt
+    span:
+      start: 0
+      end: 1194
+  4684a0991f8e41ea9173c7419e29bfb1:
+    base: fC7C0.txt
+    span:
+      start: 0
+      end: 1947
+  5747e1c89c4843dfb07cadf422791dea:
+    base: fDC5D.txt
+    span:
+      start: 0
+      end: 1153
+  d32435133d794fb9a02fd3d1de7e626b:
+    base: fF602.txt
+    span:
+      start: 0
+      end: 5700
